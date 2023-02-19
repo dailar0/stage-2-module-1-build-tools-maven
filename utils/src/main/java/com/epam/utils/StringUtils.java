@@ -7,7 +7,4 @@ public class StringUtils {
         return NumberUtils.toDouble(str) > 0;
     }
 
-    public static void main(String[] args) {
-
-    }
 }
